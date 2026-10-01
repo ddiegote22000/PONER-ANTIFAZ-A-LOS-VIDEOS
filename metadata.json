@@ -1,0 +1,6 @@
+{
+  "name": "Antifaz Studio — Máscaras y Privacidad Facial en Video",
+  "description": "Estudio interactivo para aplicar antifaces de diseño, máscaras venecianas y visores de privacidad con seguimiento facial en tiempo real sobre videos y cámara en vivo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
